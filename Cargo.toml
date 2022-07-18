@@ -1,0 +1,15 @@
+[package]
+name = "find_food"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
+fastapprox = "0.3.0"
+rand_distr = "0.4.3"
+rulinalg = "0.3.0"
+gtk = "0.15.5"
+glib = "0.15.12"
+cairo-rs = "0.15.12"
